@@ -1,4 +1,4 @@
-# Data Analytics Works made by Cyrus Look
+# Data Analytics Works (By Cyrus Look)
 ### Notebooks and scripts to demonstrate my analytics capabilities
 
 1. Yelp Canada Web Scrapping using Python - Web Scraping of Yelp with Data Visualization
