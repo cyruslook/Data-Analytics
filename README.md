@@ -11,4 +11,6 @@
 
 5. Breast Cancer Proteomes - Dividing Breast Cancer Patients into Separate Sub-classes using R - Using the genetic makeup of breast cancer as well as whether hormone receptors were present, we wanted to use classification algorithms to classify patients into four different breast cancer categories and use clustering algorithms to see if we could group breast cancer patients based on breast cancer categories treatment recommendations by doctors.
 
+6. WelTel Health Supervised Learning - Developed Machine Learning and Deep Learning algorithm for Natural Language Processing in Python by applying statistical techniques to improve the model performance resulting in a sustainable and accurate model to solve the client’s issue.
+
 Programming Languages Used: Python, Tableau, R
