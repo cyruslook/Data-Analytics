@@ -1,5 +1,5 @@
 # Data Analytics Works (By Cyrus Look)
-### Projct reports and scripts to demonstrate my analytics capabilities
+### Project reports and programming scripts to demonstrate my analytics capabilities
 
 1. Yelp Canada Web Scrapping using Python - Extracted data of local restaurants from Yelp Canada automatically and visualized comparisons of local restaurants using Python
 
@@ -15,6 +15,6 @@
 
 Programming Languages: Python, Tableau, R
 
-Applications: Jupyter Notebook, Google Colaboratory, Git
+Applications: Jupyter Notebook, Google Colaboratory, Git, GitHub
 
 Operating Systems: Microsoft Windows 7/10/11
