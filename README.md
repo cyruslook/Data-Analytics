@@ -17,4 +17,4 @@ Programming Languages: Python, Tableau, R
 
 Applications: Jupyter Notebook, Google Colaboratory, Git, GitHub
 
-Operating Systems: Microsoft Windows 7/10/11
+Operating Systems: Microsoft Windows 7/8/10/11
