@@ -9,7 +9,7 @@
 
 4. Can Living Sustainably Bring You Happiness using R - Studied sustainable behavioral trends in the context of a rapidly developing Vietnam and explored how it was associated with the pathways and orientations to happiness with application of descriptive analysis and inferential analysis using R
 
-5. Breast Cancer Proteomes - Dividing Breast Cancer Patients into Separate Sub-classes using R - Used classification algorithms to classify breast cancer patients into four different breast cancer categories in R and used clustering algorithms to discover grouping of breast cancer patients based on breast cancer categories treatment recommendations by doctors in R
+5. Breast Cancer Proteomes - Dividing Breast Cancer Patients into Separate Sub-classes using R - Classified breast cancer patients into four different breast cancer categories using classification algorithms in R and discovered grouping of breast cancer patients based on breast cancer categories treatment recommendations by doctors using clustering algorithms in R
 
 6. WelTel Health Supervised Learning - Developed Machine Learning and Deep Learning algorithm for Natural Language Processing in Python to improve model performance resulting in a sustainable and accurate model for client uses
 
