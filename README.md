@@ -7,7 +7,7 @@
 
 3. Examination of Loan Approval Possibility - Examined the loan approval possibility for each observation in the loan data set with application of data cleaning, significance tests, regression analysis, and model analysis using R
 
-4. Can Living Sustainably Bring You Happiness - Studied sustainable behavioral trends in the context of a rapidly developing Vietnam and explored how it was associated with the pathways and orientations to happiness with application of descriptive analysis and inferential analysis using R
+4. Can Living Sustainably Bring You Happiness? - Studied sustainable behavioral trends in the context of a rapidly developing Vietnam and explored how it was associated with the pathways and orientations to happiness with application of descriptive analysis and inferential analysis using R
 
 5. Breast Cancer Proteomes - Dividing Breast Cancer Patients into Separate Sub-classes - Classified breast cancer patients into four different breast cancer categories using classification algorithms in R and discovered grouping of breast cancer patients based on breast cancer categories treatment recommendations by doctors using clustering algorithms in R
 
