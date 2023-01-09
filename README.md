@@ -1,7 +1,7 @@
 # Data Analytics Works (By Cyrus Look)
 ### Project reports and programming scripts to demonstrate my analytics capabilities
 
-1. Web Scraping of Yelp with Data Visualization - Extracted data of local restaurants from Yelp Canada automatically and visualized comparisons of local restaurants using Python
+1. Web Scraping of Yelp with Data Visualization - Extracted data of local restaurants from Yelp automatically and visualized comparisons of local restaurants using Python
 
 2. Visualizing NBA Stats - Visualized complex findings about efficiency of NBA players, performance of NBA teams, and comparisons between NBA player performance and NBA player salary through Tableau
 
