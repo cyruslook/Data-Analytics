@@ -13,8 +13,3 @@
 
 6. WelTel Health Supervised Learning - Developed Machine Learning and Deep Learning algorithm for Natural Language Processing in Python to improve model performance resulting in a sustainable and accurate model for external client uses
 
-#### Programming Languages: Python, Tableau, R
-
-#### Applications: Jupyter Notebook, Google Colaboratory, Git, GitHub
-
-#### Operating Systems: Microsoft Windows 7/8/10/11
